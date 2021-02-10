@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="examplelibrary@cluster0-fqzhw.mongodb.net" uuid="9f39ab06-0f8f-4a80-8f91-5e4c258b173f">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb+srv://Dabb:4AK6RK5sIQicNyJJ@cluster0-fqzhw.mongodb.net/examplelibrary?retryWrites=true&amp;w=majority</jdbc-url>
+    </data-source>
+  </component>
+</project>
