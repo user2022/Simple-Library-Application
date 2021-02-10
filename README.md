@@ -3,7 +3,8 @@
  
  Built using:
  
-NuxtJS (VueJS)
-ExpressJS
-MongoDB
-NodeJS
+NuxtJS (VueJS),
+ExpressJS,
+MongoDB,
+NodeJS,
+and AWS S3 for image hosting
